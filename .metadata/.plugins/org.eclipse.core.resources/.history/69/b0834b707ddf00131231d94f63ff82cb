@@ -1,0 +1,31 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- Permissible values for Browser is Firefox/ Chrome/ InternetExplorer-->
+<suite name="VCG Test" parallel="tests" verbose="1" thread-count="3">
+     <test name="VCGTest Set-1" preserve-order="true">
+        <parameter name="browser" value ="InternetExplorer"></parameter>
+        <classes>
+       <!-- <class name="tests.SecurityTest"></class> -->
+       <!-- <class name="tests.CreateorderTest">
+        <methods>
+        <include name="NavigateToCreatePage"></include>
+        </methods>
+        </class>-->
+        <class name="tests.SearchOrderTest">
+        <methods>
+        <include name="NavigateToSearchOrder"></include>
+        </methods>
+        </class>
+        </classes>
+     </test>
+     <test name="VCGTest Set-2" preserve-order="true">
+        <parameter name="browser" value ="InternetExplorer"></parameter>
+        <classes>
+        <class name="tests.SearchOrderTest"></class>
+       <!-- <class name="tests.CreateorderTest">
+        <methods>
+        <include name="NavigateToCreatePage"></include>
+        </methods>
+        </class>-->
+        </classes>
+        </test>
+</suite>

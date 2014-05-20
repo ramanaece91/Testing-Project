@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" verbose="0" name="Failed suite [VCG Test]" parallel="tests">
+  <parameter name="browser" value="Chrome"/>
+  <test name="VCGTest Set-2(failed)" parallel="tests">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="tests.SearchOrderTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="NavigateToSearchOrder"/>
+          <include name="setUp"/>
+          <include name="logoutApplication"/>
+        </methods>
+      </class> <!-- tests.SearchOrderTest -->
+    </classes>
+  </test> <!-- VCGTest Set-2(failed) -->
+</suite> <!-- Failed suite [VCG Test] -->

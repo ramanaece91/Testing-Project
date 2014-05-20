@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="VCG Test" duration-ms="18103" started-at="2014-01-07T10:08:03Z" finished-at="2014-01-07T10:08:21Z">
+    <groups>
+    </groups>
+    <test name="VCGTest Set-1" duration-ms="18103" started-at="2014-01-07T10:08:03Z" finished-at="2014-01-07T10:08:21Z">
+      <class name="tests.SecurityTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:tests.SecurityTest@69cfe0]" name="setUp" is-config="true" duration-ms="13282" started-at="2014-01-07T15:38:03Z" finished-at="2014-01-07T15:38:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SecurityTest@69cfe0]" name="setUp" is-config="true" duration-ms="0" started-at="2014-01-07T15:38:16Z" finished-at="2014-01-07T15:38:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="NavigateToSearch(java.lang.String)[pri:0, instance:tests.SecurityTest@69cfe0]" name="NavigateToSearch" duration-ms="1489" started-at="2014-01-07T15:38:16Z" data-provider="UserIdDP" finished-at="2014-01-07T15:38:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ALEX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToSearch -->
+        <test-method status="PASS" signature="NavigateToSearch(java.lang.String)[pri:0, instance:tests.SecurityTest@69cfe0]" name="NavigateToSearch" duration-ms="1420" started-at="2014-01-07T15:38:18Z" data-provider="UserIdDP" finished-at="2014-01-07T15:38:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[VCG]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToSearch -->
+        <test-method status="PASS" signature="NavigateToSearch(java.lang.String)[pri:0, instance:tests.SecurityTest@69cfe0]" name="NavigateToSearch" duration-ms="1526" started-at="2014-01-07T15:38:19Z" data-provider="UserIdDP" finished-at="2014-01-07T15:38:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHRIS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToSearch -->
+        <test-method status="PASS" signature="logoutApplication()[pri:0, instance:tests.SecurityTest@69cfe0]" name="logoutApplication" is-config="true" duration-ms="156" started-at="2014-01-07T15:38:21Z" finished-at="2014-01-07T15:38:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+      </class> <!-- tests.SecurityTest -->
+    </test> <!-- VCGTest Set-1 -->
+  </suite> <!-- VCG Test -->
+</testng-results>

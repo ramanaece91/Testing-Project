@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="VCG Test" duration-ms="44048" started-at="2014-05-19T17:50:07Z" finished-at="2014-05-19T17:50:51Z">
+    <groups>
+    </groups>
+    <test name="VCGTest Set-1" duration-ms="23203" started-at="2014-05-19T17:50:07Z" finished-at="2014-05-19T17:50:30Z">
+      <class name="tests.SearchOrderTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:tests.SearchOrderTest@79a2e7]" name="setUp" is-config="true" duration-ms="12360" started-at="2014-05-19T23:20:07Z" finished-at="2014-05-19T23:20:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[InternetExplorer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchOrderTest@79a2e7]" name="setUp" is-config="true" duration-ms="1" started-at="2014-05-19T23:20:20Z" finished-at="2014-05-19T23:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="NavigateToSearchOrder(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SearchOrderTest@79a2e7]" name="NavigateToSearchOrder" duration-ms="8937" started-at="2014-05-19T23:20:20Z" data-provider="UserIdDP" finished-at="2014-05-19T23:20:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[REG-TST-10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Walmart]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[222-44-7752]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[11-21-2016]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[jeff]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[REG-TST-10]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[REG-TST-10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToSearchOrder -->
+        <test-method status="PASS" signature="logoutApplication()[pri:0, instance:tests.SearchOrderTest@79a2e7]" name="logoutApplication" is-config="true" duration-ms="1157" started-at="2014-05-19T23:20:29Z" finished-at="2014-05-19T23:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+      </class> <!-- tests.SearchOrderTest -->
+    </test> <!-- VCGTest Set-1 -->
+    <test name="VCGTest Set-2" duration-ms="44048" started-at="2014-05-19T17:50:07Z" finished-at="2014-05-19T17:50:51Z">
+      <class name="tests.SearchOrderTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:tests.SearchOrderTest@d0af9b]" name="setUp" is-config="true" duration-ms="34187" started-at="2014-05-19T23:20:07Z" finished-at="2014-05-19T23:20:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[InternetExplorer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchOrderTest@d0af9b]" name="setUp" is-config="true" duration-ms="0" started-at="2014-05-19T23:20:41Z" finished-at="2014-05-19T23:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="NavigateToSearchOrder(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.SearchOrderTest@d0af9b]" name="NavigateToSearchOrder" duration-ms="8689" started-at="2014-05-19T23:20:41Z" data-provider="UserIdDP" finished-at="2014-05-19T23:20:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[REG-TST-10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Walmart]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Virat Kohli]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[222-44-7752]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[11-21-2016]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[jeff]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[REG-TST-10]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[REG-TST-10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToSearchOrder -->
+        <test-method status="PASS" signature="logoutApplication()[pri:0, instance:tests.SearchOrderTest@d0af9b]" name="logoutApplication" is-config="true" duration-ms="1140" started-at="2014-05-19T23:20:50Z" finished-at="2014-05-19T23:20:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApplication -->
+      </class> <!-- tests.SearchOrderTest -->
+    </test> <!-- VCGTest Set-2 -->
+  </suite> <!-- VCG Test -->
+</testng-results>

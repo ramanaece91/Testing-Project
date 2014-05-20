@@ -1,0 +1,184 @@
+package driver;
+
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.net.URL;
+import java.util.Arrays;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Properties;
+import java.util.concurrent.TimeUnit; 
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
+import pages.LoginPage;
+import utility.SendResults;
+
+
+public class Base {
+	public static Properties CONFIG = null;
+    public static Properties ELEMENT = null;
+    public static Properties DATA = null;
+    public static Properties ECONFIG = null;    
+	public static Logger applogger = null;
+    protected ThreadLocal<RemoteWebDriver> threadDriver = null;
+ 
+    
+    @BeforeClass
+    @Parameters("browser") //The "browser" parameter comes from testNG.xml
+    public void setUp(String Browser) throws IOException, InterruptedException { 
+    	System.out.println("In Before Class for Browser selection:: " + Browser);
+    	Base.init();
+    	String parallel = CONFIG.getProperty("Parallel");
+		String browserSelected = null;	
+		if(parallel.equalsIgnoreCase("RunMultiple")){
+			System.out.println("Inside RunMultiple");
+			browserSelected = Browser;
+		}
+		else{
+			browserSelected = CONFIG.getProperty("Browser");
+		}
+	
+		DesiredCapabilities dc = new DesiredCapabilities();		
+		if(browserSelected.equalsIgnoreCase("Firefox"))			
+		{	threadDriver = new ThreadLocal<RemoteWebDriver>();
+			dc = DesiredCapabilities.firefox();
+			dc.setBrowserName("firefox");
+			dc.setPlatform(org.openqa.selenium.Platform.ANY);
+			threadDriver.set(new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), dc));
+		}else if(browserSelected.equalsIgnoreCase("Chrome")){
+			System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\drivers\\chromedriver.exe");
+			threadDriver = new ThreadLocal<RemoteWebDriver>();
+			dc  = DesiredCapabilities.chrome();		
+			dc.setPlatform(org.openqa.selenium.Platform.ANY);	
+			dc.setBrowserName("chrome");
+			threadDriver.set(new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), dc));
+		}else if(browserSelected.equalsIgnoreCase("InternetExplorer")){
+			System.setProperty("webdriver.ie.driver", System.getProperty("user.dir") + "\\drivers\\IEDriverServer.exe");
+			dc = DesiredCapabilities.internetExplorer();
+			dc.setPlatform(org.openqa.selenium.Platform.ANY);
+			dc.setBrowserName("iexplore");
+			//threadDriver.set(new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), dc));
+			threadDriver.set(new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), dc));
+
+        }
+		
+		getDriver().manage().deleteAllCookies();
+		getDriver().manage().window().maximize();
+		getDriver().manage().timeouts().implicitlyWait(90, TimeUnit.SECONDS);
+	
+		String environmentSelected = CONFIG.getProperty("Environment");
+		String envURL;
+		if(environmentSelected.equalsIgnoreCase("Staging")){
+			envURL = CONFIG.getProperty("Staging_URL");
+			getDriver().get(envURL);
+		}else if(environmentSelected.equalsIgnoreCase("QA")){
+			envURL = CONFIG.getProperty("QA_URL");
+			getDriver().get(envURL);
+		}
+		loginApplication();
+		System.out.println("In Base class after Login" + getDriver());
+    }
+ 
+    
+    public WebDriver getDriver() {    
+        return threadDriver.get();
+    }
+ 
+	public void loginApplication() throws InterruptedException{		
+		LoginPage loginPage = PageFactory.initElements(getDriver(), LoginPage.class);
+		String username = CONFIG.getProperty("Username");
+		String password = CONFIG.getProperty("Password");
+		System.out.println("Performing Login Action");
+		loginPage.login(username, password);
+	}
+	
+	
+    public static void init() throws IOException{	
+		System.out.println("In Driver Init section");
+		if(CONFIG == null){
+			CONFIG = new Properties();
+			FileInputStream fn = new FileInputStream(System.getProperty("user.dir") + "\\config.properties");
+			CONFIG.load(fn);
+		}
+		if(ELEMENT == null){
+			ELEMENT = new Properties();
+			FileInputStream en = new FileInputStream(System.getProperty("user.dir") + "\\elementRep.properties");
+			ELEMENT.load(en);
+			}
+			
+			if(applogger == null){
+				System.out.println("Intializing the logger");
+				applogger = Logger.getLogger("devpinoyLogger");
+			}
+			
+			if(DATA == null){
+			DATA = new Properties();
+			FileInputStream da = new FileInputStream(System.getProperty("user.dir") + "\\data.properties");
+			DATA.load(da);
+			}			
+			
+			if(ECONFIG == null){
+				ECONFIG = new Properties();
+				FileInputStream ec = new FileInputStream(System.getProperty("user.dir") + "\\emailconf.properties");
+				ECONFIG.load(ec);
+			}				
+			
+	}  
+	
+    @FindBy(how = How.XPATH, using = "//li[1]/a")
+	private WebElement vcg_LogoutMenu;
+    
+    @FindBy(how = How.XPATH, using = "//ul/li[2]/a")
+	private WebElement vcg_Logout;
+    
+    //Add the logic here to perform the Logout Operation
+    @AfterClass
+	public void logoutApplication(){
+    	Actions menuclick = new Actions(getDriver());
+		menuclick.click(vcg_LogoutMenu);	
+		menuclick.click(vcg_Logout);		
+		System.out.println("Performing Logout Operation");
+		System.out.println("Closing the Driver");
+    	getDriver().quit(); 
+	}
+    
+/*	@AfterClass
+    public void closeBrowser() {  
+		System.out.println("In the after Class method");
+    	getDriver().quit(); 
+	}*/
+	
+	
+
+	//@AfterSuite()
+	public void sendmail() throws Exception {
+		try {			
+			String frommail = CONFIG.getProperty("frommail");
+			String tomail = ECONFIG.getProperty("tomail");
+			String Titleemail = CONFIG.getProperty("Titleemail");
+			String Message = CONFIG.getProperty("Message");			
+			
+			List<String> items = Arrays.asList(tomail.split("\\s*,\\s*"));
+			Iterator<String> iterator = items.iterator();
+			while (iterator.hasNext()) {
+				System.out.println(iterator.next());
+				SendResults sr = new SendResults(frommail,iterator.next(), Titleemail, Message);
+				sr.sendTestNGResult();
+			}
+		} catch (Exception e) {		
+			e.printStackTrace();
+		}
+	}
+     
+}

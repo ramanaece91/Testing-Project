@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [VCG Test]">
+  <parameter name="browser" value="InternetExplorer"/>
+  <test name="VCGTest Set-1(failed)">
+    <parameter name="browser" value="InternetExplorer"/>
+    <classes>
+      <class name="tests.SecurityTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="NavigateToSearch"/>
+        </methods>
+      </class> <!-- tests.SecurityTest -->
+    </classes>
+  </test> <!-- VCGTest Set-1(failed) -->
+</suite> <!-- Failed suite [VCG Test] -->

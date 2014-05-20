@@ -1,0 +1,804 @@
+=2014-01-07 12:51:28,568(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-01-07 12:51:28,569(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Alex] but found [ALEX]
+=2014-01-07 12:51:30,186(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:51:30,186(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:51:31,964(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:51:31,964(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:53:25,581(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-01-07 12:53:25,581(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Alex] but found [ALEX]
+=2014-01-07 12:53:27,741(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:53:27,741(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:53:29,205(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:53:29,206(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:55:13,007(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-01-07 12:55:13,007(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Alex] but found [ALEX]
+=2014-01-07 12:55:14,742(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:55:14,742(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:55:16,410(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:55:16,410(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:57:07,308(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-01-07 12:57:07,308(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Alex] but found [ALEX]
+=2014-01-07 12:57:08,864(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:57:08,864(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:57:10,438(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:57:10,438(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:58:29,353(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:58:29,354(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:58:30,788(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:58:30,788(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 12:58:32,267(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 12:58:32,267(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:00:34,470(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:00:34,470(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:00:35,763(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:00:35,763(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:00:37,277(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:00:37,277(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:10:37,586(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:10:37,586(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:10:39,188(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:10:39,188(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:10:40,891(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:10:40,891(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:12:57,669(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:12:57,670(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:12:59,207(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:12:59,207(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:13:00,745(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:13:00,745(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:30:30,880(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:30:30,881(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:30:32,776(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:30:32,776(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:30:34,482(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:30:34,482(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:31:30,269(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:31:30,270(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:31:31,737(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:31:31,737(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 13:31:33,213(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 13:31:33,213(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:04:05,291(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 14:04:05,291(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:04:07,126(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 14:04:07,126(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:04:08,714(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 14:04:08,714(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:29:34,657(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 14:29:34,658(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:29:36,371(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 14:29:36,371(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:29:37,915(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 14:29:37,915(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:30:56,280(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 14:30:56,280(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:30:58,743(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 14:30:58,744(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:31:00,163(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 14:31:00,164(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 14:52:47,596(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-01-07 14:52:47,596(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  no such element
+  (Session info: chrome=31.0.1650.63)
+  (Driver info: chromedriver=2.2,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 90.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'tslc0827', ip: '10.0.1.191', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_21'
+Session ID: b247819bd9349f7d9858a6cd7a6e2825
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={chromedriverVersion=2.2}, rotatable=false, locationContextEnabled=true, version=31.0.1650.63, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 90.76 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_21'
+Session ID: 003759f2-f016-4919-83d2-c1ddd6f8ffa1
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={chromedriverVersion=2.2}, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=003759f2-f016-4919-83d2-c1ddd6f8ffa1, version=31.0.1650.63, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+=2014-01-07 14:53:25,779(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-01-07 14:53:25,779(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  cannot forward the request Connection reset
+Command duration or timeout: 37.70 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_21'
+Session ID: 003759f2-f016-4919-83d2-c1ddd6f8ffa1
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={chromedriverVersion=2.2}, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=003759f2-f016-4919-83d2-c1ddd6f8ffa1, version=31.0.1650.63, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+=2014-01-07 14:53:26,726(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-01-07 14:53:26,727(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_21'
+Driver info: driver.version: RemoteWebDriver
+=2014-01-07 15:38:18,204(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 15:38:18,205(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 15:38:19,625(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 15:38:19,625(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-01-07 15:38:21,151(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-01-07 15:38:21,152(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-02-23 17:39:45,770(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:39:45,771(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Unable to locate element: {"method":"xpath","selector":"//div/ul/li[9]/a"}
+Command duration or timeout: 90.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 9244c276-cb4e-4a36-b1db-7da7555259f7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+Command duration or timeout: 91.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 2242578a-9b19-459e-bdc2-b14cdc5611ca
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=2242578a-9b19-459e-bdc2-b14cdc5611ca, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:41:16,995(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:41:16,995(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Unable to locate element: {"method":"xpath","selector":"//div/ul/li[9]/a"}
+Command duration or timeout: 90.21 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 9244c276-cb4e-4a36-b1db-7da7555259f7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+Command duration or timeout: 91.21 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 2242578a-9b19-459e-bdc2-b14cdc5611ca
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=2242578a-9b19-459e-bdc2-b14cdc5611ca, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:42:45,405(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:42:45,405(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 88.40 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 2242578a-9b19-459e-bdc2-b14cdc5611ca
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=2242578a-9b19-459e-bdc2-b14cdc5611ca, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:46:42,594(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:46:42,595(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 21.36 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 7ecb6217-8d7a-43d3-9881-aeb00c3f2c25
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=7ecb6217-8d7a-43d3-9881-aeb00c3f2c25, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:46:44,453(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:46:44,454(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.85 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 7ecb6217-8d7a-43d3-9881-aeb00c3f2c25
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=7ecb6217-8d7a-43d3-9881-aeb00c3f2c25, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:46:46,264(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:46:46,265(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.81 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 7ecb6217-8d7a-43d3-9881-aeb00c3f2c25
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=7ecb6217-8d7a-43d3-9881-aeb00c3f2c25, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:48:04,162(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:48:04,162(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Modal dialog present: To display this page, Firefox must send information that will repeat any action (such as a search or order confirmation) that was performed earlier.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 3f94e66d-4ee3-489e-9c26-30657e12bc9d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]: To display this page, Firefox must send information that will repeat any action (such as a search or order confirmation) that was performed earlier.
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 7dd0aca4-868e-455d-a0eb-bdf6aeeb2307
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=7dd0aca4-868e-455d-a0eb-bdf6aeeb2307, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:48:06,010(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:48:06,010(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.84 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 7dd0aca4-868e-455d-a0eb-bdf6aeeb2307
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=7dd0aca4-868e-455d-a0eb-bdf6aeeb2307, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:48:07,934(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:48:07,934(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.92 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 7dd0aca4-868e-455d-a0eb-bdf6aeeb2307
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=7dd0aca4-868e-455d-a0eb-bdf6aeeb2307, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:53:58,407(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:53:58,408(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Element is not currently visible and so may not be interacted with
+Command duration or timeout: 97.85 seconds
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 0967a94d-159f-48f6-b6a8-8a20e41994f7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+Command duration or timeout: 99.60 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: a24ac8c3-7c06-4bd2-a804-750bb1fffade
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=a24ac8c3-7c06-4bd2-a804-750bb1fffade, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:55:32,974(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:55:32,974(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Element is not currently visible and so may not be interacted with
+Command duration or timeout: 90.20 seconds
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 0967a94d-159f-48f6-b6a8-8a20e41994f7
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+Command duration or timeout: 91.53 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: a24ac8c3-7c06-4bd2-a804-750bb1fffade
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=a24ac8c3-7c06-4bd2-a804-750bb1fffade, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:56:37,765(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:56:37,765(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: RemoteWebDriver
+Command duration or timeout: 64.67 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: a24ac8c3-7c06-4bd2-a804-750bb1fffade
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=a24ac8c3-7c06-4bd2-a804-750bb1fffade, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:58:18,902(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:58:18,903(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: RemoteWebDriver
+Command duration or timeout: 33.67 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 2eb14e4b-953e-4e15-85d4-a82eb05a7dc5
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=2eb14e4b-953e-4e15-85d4-a82eb05a7dc5, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:58:20,752(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:58:20,753(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.83 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 2eb14e4b-953e-4e15-85d4-a82eb05a7dc5
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=2eb14e4b-953e-4e15-85d4-a82eb05a7dc5, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 17:58:22,560(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 17:58:22,561(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.80 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 2eb14e4b-953e-4e15-85d4-a82eb05a7dc5
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=2eb14e4b-953e-4e15-85d4-a82eb05a7dc5, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 18:09:59,758(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 18:09:59,759(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: RemoteWebDriver
+Command duration or timeout: 17.51 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: f189014b-9903-411e-9bd3-33462449596f
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=f189014b-9903-411e-9bd3-33462449596f, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 18:10:01,655(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 18:10:01,655(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.88 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: f189014b-9903-411e-9bd3-33462449596f
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=f189014b-9903-411e-9bd3-33462449596f, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 18:10:03,708(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 18:10:03,708(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 2.05 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: f189014b-9903-411e-9bd3-33462449596f
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=f189014b-9903-411e-9bd3-33462449596f, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 19:13:29,702(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 19:13:29,712(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.16', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 17.90 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 1e3dbc12-83d2-4437-8bc7-47ad5805181c
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=1e3dbc12-83d2-4437-8bc7-47ad5805181c, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 19:13:31,721(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 19:13:31,722(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.16', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.96 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 1e3dbc12-83d2-4437-8bc7-47ad5805181c
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=1e3dbc12-83d2-4437-8bc7-47ad5805181c, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-02-23 19:13:33,600(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-02-23 19:13:33,600(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.16', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.87 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 1e3dbc12-83d2-4437-8bc7-47ad5805181c
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=1e3dbc12-83d2-4437-8bc7-47ad5805181c, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-13 12:10:07,071(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-03-13 12:10:07,073(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.8', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 16.15 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: e9bcbf72-0ca1-452c-8af1-a5e62288e49b
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=e9bcbf72-0ca1-452c-8af1-a5e62288e49b, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-13 12:10:08,779(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-03-13 12:10:08,779(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.8', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.69 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: e9bcbf72-0ca1-452c-8af1-a5e62288e49b
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=e9bcbf72-0ca1-452c-8af1-a5e62288e49b, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-13 12:10:10,416(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-03-13 12:10:10,416(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.8', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 1.63 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: e9bcbf72-0ca1-452c-8af1-a5e62288e49b
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=e9bcbf72-0ca1-452c-8af1-a5e62288e49b, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-13 12:11:51,283(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-03-13 12:11:51,285(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [ALEX] but found [Admin]
+=2014-03-13 12:11:56,064(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-03-13 12:11:56,064(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [VCG] but found [Admin]
+=2014-03-13 12:11:59,566(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-03-13 12:11:59,566(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [CHRIS] but found [Admin]
+=2014-03-13 12:15:00,738(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:15:00,741(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:15:02,766(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:15:02,766(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:15:03,878(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:15:03,878(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:16:33,671(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:16:33,672(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:16:35,112(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:16:35,112(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:16:36,631(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:16:36,631(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:25:52,370(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:25:52,390(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:25:54,021(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:25:54,021(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:25:55,453(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:25:55,453(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:27:08,822(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:27:08,824(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:27:10,190(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:27:10,191(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:27:11,525(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Passed
+=2014-03-13 12:27:11,525(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:35:48,775(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-03-13 12:35:48,777(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:35:50,224(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-03-13 12:35:50,224(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:35:51,845(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:67)   testResult==> Failed
+=2014-03-13 12:35:51,845(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:59:32,265(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:69)   testResult==> Failed
+=2014-03-13 12:59:32,345(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:59:34,471(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:69)   testResult==> Failed
+=2014-03-13 12:59:34,471(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 12:59:37,220(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:69)   testResult==> Failed
+=2014-03-13 12:59:37,220(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 13:09:31,514(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:69)   testResult==> Failed
+=2014-03-13 13:09:31,775(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 13:09:34,962(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:69)   testResult==> Failed
+=2014-03-13 13:09:34,962(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-13 13:09:37,646(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:69)   testResult==> Failed
+=2014-03-13 13:09:37,646(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 10:41:37,486(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:69)   testResult==> Failed
+=2014-03-16 10:41:37,514(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 10:41:41,169(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:69)   testResult==> Failed
+=2014-03-16 10:41:41,169(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 10:41:43,436(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:69)   testResult==> Failed
+=2014-03-16 10:41:43,436(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 11:47:59,662(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:71)   testResult==> Failed
+=2014-03-16 11:47:59,664(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Maria] but found [Add User
+Prev
+1
+Next
+User ID
+First Name MI Last Name Status Role Action
+Maria
+Maria
+Armstrong
+Active
+OMS
+Delete
+Prev
+1
+Next]
+=2014-03-16 11:48:04,035(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:71)   testResult==> Failed
+=2014-03-16 11:48:04,036(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Kathi] but found [Add User
+Prev
+1
+Next
+User ID
+First Name MI Last Name Status Role Action
+Kathi
+Kathi
+M
+McMullan
+Active
+Administrator
+Delete
+Prev
+1
+Next]
+=2014-03-16 11:48:07,868(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:71)   testResult==> Failed
+=2014-03-16 11:48:07,868(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Tracy] but found [Add User
+Prev
+1
+Next
+User ID
+First Name MI Last Name Status Role Action
+Tracy
+Tracy
+Lane
+Active
+OMS
+Delete
+Prev
+1
+Next]
+=2014-03-16 11:48:14,005(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:71)   testResult==> Failed
+=2014-03-16 11:48:14,005(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [] but found [Add User
+Prev
+1
+Next
+User ID
+First Name MI Last Name Status Role Action
+Admin
+Admin
+System
+Active
+Super-Administrator
+Delete
+Chere
+Chere
+Hemphill
+Active
+AS
+Delete
+Debbie
+Debbie
+M
+Owens
+Active
+Administrator
+Delete
+Jeff
+Jeff
+J
+Grogan
+Active
+Super-Administrator
+Delete
+JeffB
+Jeff
+Breit
+Active
+AS
+Delete
+Jocelyn
+Jocelyn
+Dennis
+Active
+OMS
+Delete
+Kathi
+Kathi
+M
+McMullan
+Active
+Administrator
+Delete
+Maria
+Maria
+Armstrong
+Active
+OMS
+Delete
+rahul
+dad
+sda
+Active
+Manager
+Delete
+Siri
+Siri
+Smith
+Active
+OMS
+Delete
+TESTUSER
+Active
+TestRole
+Delete
+Tracy
+Tracy
+Lane
+Active
+OMS
+Delete
+Twana
+T'Wana
+Edwards
+Active
+OMS
+Delete
+Vijay
+Vijay
+Sam
+Active
+AS
+Delete
+Prev
+1
+Next]
+=2014-03-16 12:19:25,421(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:79)   testResult==> Failed
+=2014-03-16 12:19:25,423(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Maria] but found [Add User
+Prev
+1
+Next
+User ID
+First Name MI Last Name Status Role Action
+Maria
+Maria
+Armstrong
+Active
+OMS
+Delete
+Prev
+1
+Next]
+=2014-03-16 12:19:29,673(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:79)   testResult==> Failed
+=2014-03-16 12:19:29,673(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Kathi] but found [Add User
+Prev
+1
+Next
+User ID
+First Name MI Last Name Status Role Action
+Kathi
+Kathi
+M
+McMullan
+Active
+Administrator
+Delete
+Prev
+1
+Next]
+=2014-03-16 12:19:34,286(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:79)   testResult==> Failed
+=2014-03-16 12:19:34,287(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  expected [Tracy] but found [Add User
+Prev
+1
+Next
+User ID
+First Name MI Last Name Status Role Action
+Tracy
+Tracy
+Lane
+Active
+OMS
+Delete
+Prev
+1
+Next]
+=2014-03-16 12:22:06,823(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:79)   testResult==> Failed
+=2014-03-16 12:22:06,824(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:22:11,360(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:79)   testResult==> Failed
+=2014-03-16 12:22:11,360(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:22:14,165(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:79)   testResult==> Failed
+=2014-03-16 12:22:14,166(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:26:21,371(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:82)   testResult==> Failed
+=2014-03-16 12:26:21,372(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:26:24,805(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:82)   testResult==> Failed
+=2014-03-16 12:26:24,805(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:26:27,277(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:82)   testResult==> Failed
+=2014-03-16 12:26:27,277(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:36:52,783(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:83)   testResult==> Failed
+=2014-03-16 12:36:52,784(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:36:56,926(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:83)   testResult==> Failed
+=2014-03-16 12:36:56,926(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:37:00,360(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:83)   testResult==> Failed
+=2014-03-16 12:37:00,360(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:41:12,299(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:83)   testResult==> Failed
+=2014-03-16 12:41:12,300(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:41:15,976(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:83)   testResult==> Failed
+=2014-03-16 12:41:15,977(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:41:19,315(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:83)   testResult==> Failed
+=2014-03-16 12:41:19,316(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-16 12:41:22,378(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:83)   testResult==> Failed
+=2014-03-16 12:41:22,378(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-17 08:20:21,386(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:84)   testResult==> Failed
+=2014-03-17 08:20:21,433(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-17 08:20:24,547(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:84)   testResult==> Failed
+=2014-03-17 08:20:24,547(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-17 08:20:27,726(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:84)   testResult==> Failed
+=2014-03-17 08:20:27,727(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-17 08:20:30,813(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:84)   testResult==> Failed
+=2014-03-17 08:20:30,813(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 18:25:25,070(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:84)   testResult==> Failed
+=2014-03-22 18:25:25,070(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 18:25:29,578(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:84)   testResult==> Failed
+=2014-03-22 18:25:29,578(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 18:25:32,590(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:84)   testResult==> Failed
+=2014-03-22 18:25:32,590(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 18:25:35,134(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SecurityTest   MethodName ==> tests.SecurityTest.NavigateToSearch(SecurityTest.java:84)   testResult==> Failed
+=2014-03-22 18:25:35,134(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 18:52:02,559(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 18:52:02,561(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.33', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 11.78 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 5dc207f8-0446-4ded-b77c-12f0ba5c8534
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=5dc207f8-0446-4ded-b77c-12f0ba5c8534, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-22 18:56:10,418(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 18:56:10,421(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.33', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: RemoteWebDriver
+Command duration or timeout: 34.51 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: f7e5c3e8-16a0-47f7-bfdc-9c21a66b3d33
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=f7e5c3e8-16a0-47f7-bfdc-9c21a66b3d33, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-22 19:02:28,177(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 19:02:28,178(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the create order
+=2014-03-22 19:06:47,693(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 19:06:47,694(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the create order
+=2014-03-22 19:15:42,219(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 19:15:42,221(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the create order
+=2014-03-22 19:23:43,943(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 19:23:43,945(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.33', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: RemoteWebDriver
+Command duration or timeout: 43.77 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 250dd0b9-2190-4ff9-8327-438c783cd7e9
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=250dd0b9-2190-4ff9-8327-438c783cd7e9, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-22 19:27:52,943(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 19:27:52,944(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.33', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: RemoteWebDriver
+Command duration or timeout: 19.08 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: abfdc5a5-28eb-44c6-8413-95b1ccec996f
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=abfdc5a5-28eb-44c6-8413-95b1ccec996f, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-22 19:32:08,242(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 19:32:08,244(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the create order
+=2014-03-22 19:35:57,036(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 19:35:57,037(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.33', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: RemoteWebDriver
+Command duration or timeout: 28.77 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: a743f5e2-0f04-4f53-a947-f1218a25df47
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=a743f5e2-0f04-4f53-a947-f1218a25df47, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-22 19:42:15,943(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:81)   testResult==> Failed
+=2014-03-22 19:42:15,945(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the create order
+=2014-03-22 20:00:12,164(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:92)   testResult==> Failed
+=2014-03-22 20:00:12,165(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the create order
+=2014-03-22 20:06:36,417(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:92)   testResult==> Failed
+=2014-03-22 20:06:36,419(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the create order
+=2014-03-22 20:09:31,006(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:92)   testResult==> Failed
+=2014-03-22 20:09:31,008(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the create order
+=2014-03-22 20:29:38,933(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.CreateorderTest   MethodName ==> tests.CreateorderTest.NavigateToCreatePage(CreateorderTest.java:94)   testResult==> Failed
+=2014-03-22 20:29:38,935(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the create order
+=2014-03-22 21:33:39,312(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-03-22 21:33:39,314(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.33', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 73.69 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: 39483e9e-3720-4c29-97aa-3ea0edccb52b
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=39483e9e-3720-4c29-97aa-3ea0edccb52b, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-22 22:25:45,019(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-03-22 22:25:45,020(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Error communicating with the remote browser. It may have died.
+Build info: version: '2.37.0', revision: 'a7c61cb', time: '2013-10-18 17:14:00'
+System info: host: 'prabhu', ip: '192.168.40.34', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Driver info: driver.version: EventFiringWebDriver
+Command duration or timeout: 34.07 seconds
+Build info: version: '2.33.0', revision: '4ecaf82108b2a6cc6f006aae81961236eba93358', time: '2013-05-22 12:00:17'
+System info: os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_17'
+Session ID: c41b70a8-a0a5-46a3-9e40-783e26f48e9b
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=c41b70a8-a0a5-46a3-9e40-783e26f48e9b, version=27.0.1, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=true, takesScreenshot=true}]
+=2014-03-22 22:30:15,164(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-03-22 22:30:15,165(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 22:33:15,225(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-03-22 22:33:15,226(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 23:08:43,891(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-03-22 23:08:43,892(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 23:14:58,236(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-03-22 23:14:58,237(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 23:18:26,754(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-03-22 23:18:26,755(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 23:19:11,573(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-03-22 23:19:11,574(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-03-22 23:21:12,118(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-03-22 23:21:12,119(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-05-19 22:35:02,777(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-05-19 22:35:02,818(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-05-19 22:49:57,955(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-05-19 22:49:57,957(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-05-19 23:19:00,565(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-05-19 23:19:00,566(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-05-19 23:20:29,771(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-05-19 23:20:29,772(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
+=2014-05-19 23:20:50,637(dd/MM/yyyy HH:mm:ss) devpinoyLogger ClassName==>  tests.SearchOrderTest   MethodName ==> tests.SearchOrderTest.NavigateToSearchOrder(SearchOrderTest.java:86)   testResult==> Failed
+=2014-05-19 23:20:50,637(dd/MM/yyyy HH:mm:ss) devpinoyLogger Exception message ==>  Completed the search
